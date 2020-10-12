@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44000" started-at="2020-10-12T19:28:50 IST" finished-at="2020-10-12T19:29:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44000" started-at="2020-10-12T19:28:50 IST" finished-at="2020-10-12T19:29:34 IST">
+      <class name="com.atmecs.executioncmd.testscripts.AddToCart">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.AddToCart@5702b3b1]" name="lunchBrowser" is-config="true" duration-ms="5963" started-at="2020-10-12T19:29:15 IST" finished-at="2020-10-12T19:29:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="addtoCart()[pri:4, instance:com.atmecs.executioncmd.testscripts.AddToCart@5702b3b1]" name="addtoCart" duration-ms="11473" started-at="2020-10-12T19:29:21 IST" finished-at="2020-10-12T19:29:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCart -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.AddToCart@5702b3b1]" name="closeBrowser" is-config="true" duration-ms="1623" started-at="2020-10-12T19:29:33 IST" finished-at="2020-10-12T19:29:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.executioncmd.testscripts.AddToCart -->
+      <class name="com.atmecs.executioncmd.testscripts.ContactUs">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.ContactUs@ff5b51f]" name="lunchBrowser" is-config="true" duration-ms="5518" started-at="2020-10-12T19:29:00 IST" finished-at="2020-10-12T19:29:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="contactus()[pri:3, instance:com.atmecs.executioncmd.testscripts.ContactUs@ff5b51f]" name="contactus" duration-ms="907" started-at="2020-10-12T19:29:05 IST" finished-at="2020-10-12T19:29:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.ContactUs@ff5b51f]" name="closeBrowser" is-config="true" duration-ms="1718" started-at="2020-10-12T19:29:06 IST" finished-at="2020-10-12T19:29:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.executioncmd.testscripts.ContactUs -->
+      <class name="com.atmecs.executioncmd.testscripts.Registration">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.Registration@1ed4004b]" name="lunchBrowser" is-config="true" duration-ms="6638" started-at="2020-10-12T19:28:50 IST" finished-at="2020-10-12T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="register()[pri:1, instance:com.atmecs.executioncmd.testscripts.Registration@1ed4004b]" name="register" duration-ms="670" started-at="2020-10-12T19:28:57 IST" finished-at="2020-10-12T19:28:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.Registration@1ed4004b]" name="closeBrowser" is-config="true" duration-ms="1925" started-at="2020-10-12T19:28:58 IST" finished-at="2020-10-12T19:29:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.executioncmd.testscripts.Registration -->
+      <class name="com.atmecs.executioncmd.testscripts.Login">
+        <test-method status="PASS" signature="lunchBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.Login@25bbe1b6]" name="lunchBrowser" is-config="true" duration-ms="5315" started-at="2020-10-12T19:29:08 IST" finished-at="2020-10-12T19:29:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.atmecs.executioncmd.testscripts.Login@25bbe1b6]" name="login" duration-ms="576" started-at="2020-10-12T19:29:13 IST" finished-at="2020-10-12T19:29:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.executioncmd.testscripts.Login@25bbe1b6]" name="closeBrowser" is-config="true" duration-ms="1614" started-at="2020-10-12T19:29:14 IST" finished-at="2020-10-12T19:29:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.executioncmd.testscripts.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
